@@ -6,13 +6,13 @@ First of all, for reference here's the old look:
 
 Let me list some of the things I really do not like about this design:
 - Font
-- - This font at the time I used it was brand new to me. Nowadays I use it much too much, and it feels a bit too generic.
+This font at the time I used it was brand new to me. Nowadays I use it much too much, and it feels a bit too generic.
 - Design
-- - The design feels a little boring, especially the headers with their bright images
+The design feels a little boring, especially the headers with their bright images
 - Colours
-- - The colours are much too saturated, especially with the background (it even uses an image!)
+The colours are much too saturated, especially with the background (it even uses an image!)
 - Navbar
-- - The navbar layout is fine, but the buttons on the right just aren't great, that gradient is very harsh on a small area.
+The navbar layout is fine, but the buttons on the right just aren't great, that gradient is very harsh on a small area.
 
 Let's tackle each issue one at a time.
 
