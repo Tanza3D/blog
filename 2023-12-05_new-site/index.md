@@ -1,8 +1,3 @@
----
-title: New site design!
-date: 2023-12-05 00:00:00 +0000
----
-
 I really wasn't happy with my old site design, the layout was great, but the colours seemed too saturated, and it felt a bit too big on the screen. I decided to take a few hours to try fix it up!
 
 First of all, for reference here's the old look:
