@@ -18,15 +18,19 @@ Let's tackle each issue one at a time.
 
 ### Font
 For a new font, my go-to place as of recent has been [Fontshare](https://www.fontshare.com/), I absolutely loved their fonts. I tried *Ranade* first, but it looked off, so secondly I tried a more basic *Satoshi* and it looked great.
+
 ![Image showing the new font](assets/new-font.png)
 
 ### Design
 The only thing I had qualms with in the page design area of things were the cover and page widths, so I added some border radius and padding to the cover, made it smaller, and blurred the image, and that made it look nicer.
+
 ![Image showing the new cover](assets/new-cover.png)
+
 With this, I also updated it to pick a random "wide" image (aspect ratio wider than 1:1) out of the 10 most recently uploaded images to the page.
 
 ### Colours
 To fix the colours, I basically went through each one and desaturated it a bunch, and removed some gradients from around the page. That cleaned it up quite nicely. With this, I also pulled down the page width a bit, to let everything breathe some more
+
 ![Image showing the new colours](assets/new-colours.png)
 
 ### Navbar
